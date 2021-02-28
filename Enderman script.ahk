@@ -248,45 +248,7 @@ return
 Send {U+22C9}
 return
 
-+0::
-Send {U+2300}
-return
 
-+1::
-Send {U+268c}
-return
-
-+2::
-Send {U+268d}
-return
-
-+3::
-Send {U+268e}
-return
-
-+4::
-Send {U+268f}
-return
-
-+5::
-Send {U+23d1}
-return
-
-+6::
-Send {U+23d2}
-return
-
-+7::
-Send {U+23d3}
-return
-
-+8::
-Send {U+23d4}
-return
-
-+9::
-Send {U+23d5}
-return
 
 f12::
 Suspend
